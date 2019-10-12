@@ -23,5 +23,5 @@ $('.next').click(function(e){
 function animBody(top){
   $('html,body').animate({
     scrollTop: top
-    },550);
+    },700);
 }
