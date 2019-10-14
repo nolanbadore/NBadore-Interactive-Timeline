@@ -3,3 +3,123 @@ $color-pink: #D92396;
 .illustration {
 	display: none;
 }
+
+.home {
+	background-image: url("../img/bg1.png");
+	background-size: cover;
+	z-index: 1000;
+}
+
+.first {
+	background-image: url("../img/spaceInvaders.jpg");
+	background-size: cover;
+	z-index: 1000;
+}
+
+.second {
+	background-image: url("../img/nintendo.jpg");
+	background-size: cover;
+	z-index: 1000;
+}
+
+.third {
+	background-image: url("../img/starcraft_00000.jpg");
+	background-size: cover;
+	z-index: 1000;
+}
+
+.four {
+	background-image: url("../img/LOL1_00000.jpg");
+	background-size: cover;
+	z-index: 1000;
+}
+
+.five {
+	background-image: url("../img/mlg_00000.jpg");
+	background-size: cover;
+	z-index: 1000;
+}
+
+.six {
+	background-image: url("../img/cpl_00000.jpg");
+	background-size: cover;
+	z-index: 1000;
+}
+
+.seven {
+	background-image: url("../img/scandal_00000.jpg");
+	background-size: cover;
+	z-index: 1000;
+}
+
+.eight {
+	background-image: url("../img/twitch_00000.jpg");
+	background-size: cover;
+	z-index: 1000;
+}
+
+.nine {
+	background-image: url("../img/plane_00000.jpg");
+	background-size: cover;
+	z-index: 1000;
+}
+
+.ten {
+	background-image: url("../img/ow_00000.jpg");
+	background-size: cover;
+	z-index: 1000;
+}
+
+.eleven {
+	background-image: url("../img/fort_00000.jpg");
+	background-size: cover;
+	z-index: 1000;
+}
+
+.twelve {
+	background-image: url("../img/dota_00000.jpg");
+	background-size: cover;
+	z-index: 1000;
+}
+
+@media screen and (max-width: 60rem) {
+	h1 {
+		font-size: 7rem;
+		margin-top: .25rem;
+		margin-bottom: 5rem;
+		line-height: 6rem;
+	}
+
+	h2 {
+		font-size: 2rem;
+	}
+	p {
+		font-size: 20px;
+		margin-left: .25rem;
+	}
+
+	.sStroke {
+    margin-top: 3rem;
+	}
+
+	.nav img {
+		display: none;
+	}
+
+	.bCircle img {
+  	display: none;
+	}	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
